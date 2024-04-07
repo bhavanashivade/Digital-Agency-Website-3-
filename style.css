@@ -250,7 +250,7 @@ section.features {
     transition: 0.3s case-in;
 
     left: 200px;
-    .
+
 }
 
 
@@ -264,7 +264,7 @@ section.features {
 
 
 
-}
+
 
 #z:hover {
     background-color: #ccc;
@@ -584,7 +584,7 @@ button {
 
 
 .B-section {
-    background-image: url(yu.jpg);
+    background-image: url(image11.jpg);
 
 
     height: 100vh;
@@ -947,6 +947,174 @@ button {
 }
 
 #nnnn:hover {
+    background-color: #ccc;
+    border: 2px solid red;
+    color: black;
+    transition: 0.3s case-out;
+}
+
+
+
+
+/* aaaaaa */
+
+
+
+
+
+
+
+#vb {
+    padding: 350px;
+    margin: 33px;
+    font-family: sans-serif;
+
+
+}
+
+#vb {
+    background: url(image12.jpg) no-repeat;
+
+    background-size: cover;
+
+    /* height: 200px;
+    width: 100%;
+ */
+
+
+
+    background-size: cover;
+
+    height: 100vh;
+    display: grid;
+    color: black;
+    place-items: center;
+    text-align: center;
+
+
+
+
+
+}
+
+.qa {
+
+
+    text-align: center;
+
+    color: black;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.qq {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+
+.form_container {
+    margin: 30px;
+
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 60px;
+
+
+
+
+
+
+}
+
+.from_control {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.form_control {
+    color: black;
+}
+
+.r {
+    color: black;
+}
+
+
+
+/* bbbbbb */
+
+
+
+
+
+
+/* #pl {
+    position: relative;
+    text-align: left;
+    
+    margin: 12px;
+    padding: 10px;
+} */
+
+#ABCDE {
+    display: flex;
+
+    border-radius: 5px;
+    box-shadow: 3px 5px 5px rgba(1, 1, 1, 0.2);
+
+    /* position: relative; */
+    left: 40px;
+
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+
+
+
+
+
+    /* margin: 90px; */
+}
+
+
+
+
+
+#K {
+    position: relative;
+    left: 5px;
+}
+
+#K {
+    background-color: red;
+    border: transparent solid 2px;
+    padding: 5px 10px;
+    color: white;
+    border-radius: 8px;
+    transition: 0.3s case-in;
+
+
+
+}
+
+#K:hover {
     background-color: #ccc;
     border: 2px solid red;
     color: black;
