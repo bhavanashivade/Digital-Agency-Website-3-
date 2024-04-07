@@ -257,15 +257,6 @@ section.features {
 
 
 
-
-
-/* margin-top: 25px; */
-
-
-
-
-
-
 #z:hover {
     background-color: #ccc;
     border: 2px solid red;
@@ -286,10 +277,6 @@ button {
     border-radius: 20px;
 
 }
-
-
-
-
 
 
 #pppp {
@@ -349,7 +336,7 @@ button {
 .services h1 {
     display: inline-block;
     text-transform: uppercase;
-    /* border-bottom: 4px solid #3498db; */
+
     font-size: 30px;
     padding-bottom: 10px;
     margin-top: 60px;
@@ -403,18 +390,8 @@ button {
 #q {
     position: relative;
     text-align: center;
-    /* left: 500px; */
-    /* margin: 12px;
-    padding: 10px; */
-    /* margin: 50px; */
+
 }
-
-
-
-
-
-
-
 
 
 
@@ -425,9 +402,6 @@ button {
     min-height: 10vh;
     padding: 30px 10%;
 }
-
-
-
 
 
 .container2 .row {
@@ -462,8 +436,6 @@ button {
     left: 0;
     background-color: #808080;
 }
-
-
 
 
 
@@ -522,10 +494,6 @@ button {
 
 
 
-
-
-
-
 @keyframes animate {
     100% {
         width: 100%;
@@ -571,11 +539,6 @@ button {
 .container2 .row {
     margin-top: 30px;
 }
-
-
-
-
-
 
 
 
@@ -670,61 +633,10 @@ button {
 #ppppp {
     position: relative;
     text-align: center;
-    /* left: 500px; */
-    /* margin: 12px; */
+
     padding: 10px;
     margin: 50px;
 }
-
-
-
-/* review section start */
-
-
-
-/* .reviews .reviews-slider .box {
-
-    border: var(--border);
-    padding: 2rem;
-    text-align: center;
-    margin: 2rem 0;
-
-}
-
-.reviews .reviews-slider .box:hover {
-    border: var(--border-hover);
-}
-
-.reviews .reviews-slider .box img {
-    height: 7rem;
-    width: 7rem;
-    border-radius: 50%;
-    object-fit: cover;
-}
-
-
-.reviews .reviews-slider .box h3 {
-    color: var(--black);
-    font-size: 2.2rem;
-    padding: 1rem 0;
-    line-height: 2;
-}
-
-
-.reviews .reviews-slider .box p {
-    color: var(--light-color);
-    font-size: 1.4rem;
-    padding: 1rem 0;
-    line-height: 2;
-}
-
-.reviews .reviews-slider .box .stars i {
-    font-size: 1.7rem;
-    color: var(--orange);
-} */
-
-
-
 
 
 
@@ -762,11 +674,7 @@ button {
 }
 
 
-/* .service i {
-    color: #34c8db;
-    font-size: 34px;
-    margin-bottom: 30px;
-} */
+
 
 
 
@@ -789,13 +697,6 @@ button {
 
 }
 
-.service1 h3 {
-    /* font-size: 18px;
-    text-transform: uppercase;
-    font-weight: 500;
-    margin: 0; */
-
-}
 
 .service1 p {
     color: gray;
@@ -807,18 +708,14 @@ button {
 #q {
     position: relative;
     text-align: center;
-    /* left: 500px; */
-    /* margin: 12px;
-    padding: 10px; */
-    /* margin: 50px; */
+
 }
 
 
 #M {
     position: relative;
     text-align: center;
-    /* left: 500px; */
-    /* margin: 12px; */
+
     padding: 10px;
     margin: 50px;
 }
@@ -829,47 +726,7 @@ button {
 
 
 
-
-
-
-/* offer */
-
-
-
-
-
-/* .offer {
-    width: 100%;
-    height: auto;
-    margin-bottom: 20px;
-} */
-
-
-/* .our_blog {
-    display: flex;
-    height: 300px;
-    width: 90%;
-    justify-content: space-evenly;
-    align-items: center;
-    margin: auto;
-}
-
-.imagset1 {
-    height: 250px;
-    width: 47%;
-    margin: 5px;
-
-}
-
-
-.imagset2 {
-
-    height: 250px;
-    width: 30%;
-    margin: 5px;
-
-
-} */
+/* aaaaaa */
 
 
 .our_blog {
@@ -925,11 +782,6 @@ button {
 
 
 #uu {
-    /* position: relative; */
-    /* text-align: center; */
-    /* left: 500px; */
-    /* margin: 12px; */
-    /* padding: 10px; */
 
     position: relative;
     right: 300px;
@@ -957,119 +809,99 @@ button {
 
 
 
-/* aaaaaa */
-
-
-
-
-
-
-
-#vb {
-    display: flex;
-    padding: 350px;
-    margin: 33px;
-    font-family: sans-serif;
-
-
-}
-
-#vb {
-    background: url(image12.jpg) no-repeat;
-
-    background-size: cover;
-
-    /* height: 200px;
-    width: 100%;
- */
-
-
-
-    background-size: cover;
-
-    height: 100vh;
-    display: grid;
-    color: black;
-    place-items: center;
-    text-align: center;
-
-
-
-
-
-}
-
-.qa {
-
-
-    justify-content: center;
-
-    color: black;
-
-
-
-}
-
-
-
-
-
-
-.qq {
-    max-width: 900px;
-    margin: 0 auto;
-}
-
-
-.form_container {
-    margin: 30px;
-
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 60px;
-
-
-
-}
-
-.from_control {
-    display: flex;
-    flex-direction: column;
-
-}
-
-.form_control {
-    color: black;
-}
-
-.r {
-    color: black;
-}
-
-
-
 /* bbbbbb */
 
 
 
+.contact1 {
+    height: 550px;
+    width: 100%;
+    border: 2px solid black;
+    background-image: url(image12.jpg);
+    background-size: cover;
 
 
 
-/* #pl {
-    position: relative;
-    text-align: left;
-    
-    margin: 12px;
-    padding: 10px;
-} */
+}
+
+
+.text_head1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 2px;
+    margin-bottom: 18px;
+    color: white;
+    font-size: 35px;
+}
+
+
+.text_head2 {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 15px;
+}
+
+
+.cont_info {
+    display: flex;
+    justify-content: center;
+}
+
+
+.cont_info1 {
+    background-color: white;
+    padding: 2px;
+    margin: 15px;
+    height: 30px;
+    width: 36%;
+}
+
+.textarea_m {
+    display: flex;
+    margin-top: 70px;
+}
+
+
+.contact1 input {
+    border: transparent;
+    height: 27px;
+    width: 460px;
+}
+
+
+
+
+.text_area {
+    margin: auto;
+    background-color: white;
+    height: 200px;
+    width: 1130px;
+
+
+}
+
+
+.text_area input {
+    height: 200px;
+    width: 1130px;
+}
+
+
+
+
+/* cccccc */
+
+
+
 
 #ABCDE {
     display: flex;
 
     border-radius: 5px;
-    box-shadow: 3px 5px 5px rgba(1, 1, 1, 0.2);
+    box-shadow: 3px 5px 5px rgba(15, 16, 15, 0.2);
 
-    /* position: relative; */
+
     left: 40px;
 
 
@@ -1077,9 +909,37 @@ button {
     flex-wrap: wrap;
     justify-content: space-around;
 
-    /* margin: 90px; */
+
+
+
+
+    border: 2px solid black;
+
+    background-size: cover;
+
+    background-color: rgb(75, 72, 72);
+
 }
 
+#ABCDE .a {
+    color: red;
+}
+
+
+#ABCDE .b {
+    color: white;
+}
+
+
+#ABCDE h1 {
+
+    color: white;
+
+}
+
+#ABCDE h3 {
+    color: white;
+}
 
 
 
@@ -1102,7 +962,7 @@ button {
 }
 
 #K:hover {
-    background-color: #ccc;
+    background-color: white;
     border: 2px solid red;
     color: black;
     transition: 0.3s case-out;
