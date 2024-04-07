@@ -901,6 +901,7 @@ button {
 
 .i1 {
     background-color: red;
+
 }
 
 .i2 {
@@ -965,6 +966,7 @@ button {
 
 
 #vb {
+    display: flex;
     padding: 350px;
     margin: 33px;
     font-family: sans-serif;
@@ -1000,20 +1002,13 @@ button {
 .qa {
 
 
-    text-align: center;
+    justify-content: center;
 
     color: black;
 
 
+
 }
-
-
-
-
-
-
-
-
 
 
 
@@ -1032,9 +1027,6 @@ button {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: 60px;
-
-
-
 
 
 
@@ -1084,11 +1076,6 @@ button {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-
-
-
-
-
 
     /* margin: 90px; */
 }
