@@ -91,6 +91,11 @@ nav ul li:hover {
 }
 
 
+
+
+
+
+
 #B {
     position: relative;
     left: -30px;
@@ -228,6 +233,10 @@ section.features {
     justify-content: center;
     align-items: center;
 
+    margin-top: 20px;
+
+    margin-bottom: 50px;
+
 
 }
 
@@ -282,6 +291,10 @@ button {
 #pppp {
     display: flex;
 
+    margin-top: 50px;
+
+    margin-bottom: 50px;
+
 }
 
 #oo {
@@ -300,6 +313,7 @@ button {
     left: 200px;
     top: 40px;
     color: rgba(21, 1, 1, 0.874);
+
 
 }
 
@@ -597,9 +611,9 @@ button {
     position: relative;
     text-align: center;
     /* left: 500px; */
-    margin: 12px;
-    padding: 10px;
-    margin: 50px;
+    margin-top: 20px;
+    /* padding: 10px; */
+    /* margin: 30px; */
 }
 
 
@@ -683,6 +697,8 @@ button {
 
     font-size: 1.7rem;
     color: var(--orange);
+    /* margin-top: 5px;
+    margin-bottom: 5px; */
 
 }
 
@@ -820,6 +836,14 @@ button {
     background-image: url(image12.jpg);
     background-size: cover;
 
+    /* padding-top: 50px; */
+
+    margin-top: 50px;
+
+    margin-bottom: 50px;
+
+
+
 
 
 }
@@ -919,9 +943,13 @@ button {
 
     background-color: rgb(75, 72, 72);
 
+    padding-top: 30px;
+
+    padding-bottom: 30px;
+
 }
 
-#ABCDE .a {
+#ABCDE .a h1 {
     color: red;
 }
 
